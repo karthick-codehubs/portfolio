@@ -17,8 +17,7 @@ export default function Home() {
       />
     </div>
     <h1 className="md:text-7xl text-3xl lg:text-6xl font-bold text-center text-white relative z-20">
-      Karthick Raja Murugan
-    </h1>
+Krithik Karthick    </h1>
   </div>
   );
 }
